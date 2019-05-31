@@ -2,6 +2,7 @@
 {
 
 	//decided to leave this as simple poco type because no time left, but it seems to me that this is sort of an entity
+	// yes, the code for calculating price and summary is ugly but I needed some time to think about refactoring it more appropriately
 	public class Product
 	{
 		private const decimal DefaultProductPrice = 0m;
