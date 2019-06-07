@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.28307.572
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoreValueTest", "CoreValueTest\CoreValueTest.csproj", "{0FD9EB9B-1518-46FC-B880-53F62344367E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoreValueTestPizzas", "CoreValueTestPizzas\CoreValueTestPizzas.csproj", "{9FCAEBFA-E459-462E-ACFA-835982AA9426}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{0FD9EB9B-1518-46FC-B880-53F62344367E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0FD9EB9B-1518-46FC-B880-53F62344367E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0FD9EB9B-1518-46FC-B880-53F62344367E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9FCAEBFA-E459-462E-ACFA-835982AA9426}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9FCAEBFA-E459-462E-ACFA-835982AA9426}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9FCAEBFA-E459-462E-ACFA-835982AA9426}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9FCAEBFA-E459-462E-ACFA-835982AA9426}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
